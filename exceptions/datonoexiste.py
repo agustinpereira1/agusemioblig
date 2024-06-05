@@ -1,0 +1,4 @@
+class DatoNoExiste(Exception):
+    pass
+
+
